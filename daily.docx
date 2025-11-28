@@ -2,7 +2,7 @@ Daily 01 - 26/11/2025
 
 Objetivo:
 
-Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer no dia e se eu preciso de ajuda.
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
 
 Integrantes:
 
@@ -50,3 +50,78 @@ Amanhã vamos continuar o desenvolvimento do levantamento de requisitos e da pro
 Ajuda (Obs):
 
 No presente momento não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+--------------------------------------------------------------------------------------------
+
+Daily 02 - 27/11/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+Atividades Realizadas no Dia:
+
+O que fizemos (Daily 01 - 26/11/2025):
+
+
+Realizamos o levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvemos o protótipo de alta fidelidade inicial no Figma referente ao sistema em JavaFX.
+
+Definimos o nome e o logotipo do sistema Ephoros.
+
+Organizamos as tarefas em equipe e alinhamos a identidade visual do projeto.
+
+
+O que fizemos hoje (Daily 02 - 27/11/2025):
+
+
+Lucas Alexandre:
+
+- Desenvolvimento do protótipo de alta fidelidade das telas Desktop, Mobile e Tablet no Figma.
+
+- Levantamento dos requisitos do protótipo Desktop.
+
+- Criação das imagens utilizadas no protótipo.
+
+- Realização diagrama de caso de uso em UML
+
+
+Enzzo Fernandes:
+
+- Levantamento dos requisitos funcionais (RF), não funcionais (RNF) e de negócio (RN) referentes ao protótipo de alta fidelidade Mobile e Tablet.
+
+
+Bruno Haddad:
+
+- Início da construção da landing page Desktop.
+
+- Desenvolvimento do protótipo de alta fidelidade das telas Desktop.
+
+- Criação das imagens necessárias para a estrutura da landing page.
+
+
+Resumo:
+
+O time manteve o foco no desenvolvimento visual e estrutural do projeto Ephoros. Avançamos no detalhamento dos requisitos de cada protótipo, além de evoluir significativamente nas telas de alta fidelidade. A criação das imagens e o início da landing page auxiliaram no progresso da identidade visual e na base estrutural da interface.
+
+
+O que será feito amanhã:
+
+
+Continuação e refinamento do protótipo de alta fidelidade.
+
+Expansão das telas da landing page (Desktop, Mobile e Tablet).
+
+Revisão e validação dos requisitos levantados para garantir coerência entre as versões das telas.
+
+
+Ajuda (Obs):
+
+No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
