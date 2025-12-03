@@ -51,7 +51,9 @@ Ajuda (Obs):
 
 No presente momento não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
 
+
 --------------------------------------------------------------------------------------------
+
 
 Daily 02 - 27/11/2025
 
@@ -126,7 +128,9 @@ Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
 
+
 ------------------------------------------------------------------------------------------------------
+
 
 Daily 03 - 28/11/2025
 
@@ -179,6 +183,7 @@ No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo mu
 
 
 ------------------------------------------------------------------------------------------------------
+
 
 Daily 04 - 01/12/2025
 
@@ -238,6 +243,77 @@ Continuação da codificação em Java e JavaFX.
 Finalização das telas desktop e início das versões mobile e tablet.
 
 Revisão final dos requisitos e avanço da estrutura da landing page.
+
+
+Ajuda (Obs):
+
+No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 05 - 02/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04 – 26, 27, 28/11 e 01/12/2025):
+
+Levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvimento dos protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definição do nome, logotipo e identidade visual do projeto Ephoros.
+
+Desenvolvimento e refinamento da landing page – versão desktop.
+
+Início da codificação do sistema de gestão de estacionamento em Java
+
+Revisão, organização e reestruturação dos requisitos conforme os protótipos.
+
+
+Atividades do Dia 02/12/2025:
+
+
+Lucas Alexandre:
+
+- Conclusão da parte de cadastro de veículos, com implementação e ajustes necessários.
+
+- Inicialização da interface gráfica do sisetma utilizando o JavaFX
+
+Bruno Haddad:
+
+- Finalização da landing page – versão desktop, concluindo os últimos detalhes visuais e estruturais.
+
+- Inicialização da parte lógica referente ao cálculo e registro de saída dos veículos no sistema.
+
+Enzzo Fernandes:
+
+---
+
+Resumo:
+
+O foco do dia foi avançar no desenvolvimento da aplicação, tanto na parte visual quanto na parte lógica. A landing page desktop foi finalizada, a versão mobile foi iniciada, e o módulo de cadastro de veículos foi concluído. Também iniciamos a parte de cálculo e registro de saída no sistema.
+
+
+O que será feito amanhã (QUA - 03/12/2025):
+
+Continuação da landing page mobile e início da versão tablet.
+
+Avanço na lógica de saída e no cálculo relacionado ao tempo e valor do estacionamento.
+
+Continuação do sistema Java com a interface gráfica em JavaFX.
 
 
 Ajuda (Obs):
