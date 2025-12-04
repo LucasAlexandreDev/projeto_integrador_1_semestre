@@ -319,3 +319,80 @@ Continuação do sistema Java com a interface gráfica em JavaFX.
 Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 06 - 03/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04/05 – 26/11 a 02/12/2025):
+
+Levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Criação dos protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definição do nome, logo e identidade visual do projeto Ephoros.
+
+Desenvolvimento da landing page (desktop e início das versões mobile e tablet).
+
+Construção e refinamento da estrutura visual e lógica da aplicação.
+
+Implementação do cadastro de veículos no sistema em Java.
+
+Início da implementação do cálculo e registro de saída.
+
+Continuidade da organização e validação dos requisitos.
+
+
+Atividades do Dia 03/12/2025:
+
+Lucas Alexandre:
+
+- Continuação da implementação da interface do sistema em JavaFX, aprimorando a estrutura das telas.
+
+- Inicialização da landing page – versão mobile, começando a adaptação responsiva do layout.
+
+Bruno Haddad:
+
+- Conclusão da landing page – versão desktop, finalizando ajustes visuais e estruturais.
+
+- Conclusão da funcionalidade de registro de saída no sistema Java, incluindo a lógica necessária.
+
+Enzzo Fernandes:
+
+- Conclusão da landing page – versão tablet, finalizando a estrutura visual e garantindo alinhamento com a identidade visual do projeto.
+
+
+Resumo:
+
+O foco do dia foi avançar no desenvolvimento das interfaces e na lógica do sistema.
+A landing page desktop foi finalizada, a versão tablet concluída e a versão mobile iniciada.
+Na parte lógica, concluímos o módulo de registro de saída, completando o fluxo principal do sistema de estacionamento.
+A interface JavaFX segue em evolução para acompanhar a implementação das funcionalidades.
+
+O que será feito amanhã (QUI - 04/12/2025):
+
+Continuação da landing page mobile e ajustes nas versões desktop e tablet, caso necessário.
+
+Aperfeiçoamento da interface em JavaFX, iniciando integração com as funcionalidades já concluídas.
+
+Revisão final das lógicas de entrada e saída para garantir total funcionamento.
+
+
+Ajuda (Obs):
+
+No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
