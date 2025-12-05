@@ -396,3 +396,73 @@ Revisão final das lógicas de entrada e saída para garantir total funcionament
 Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 07 - 04/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04/05 – 26/11 a 03/12/2025):
+
+Realizamos o levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvemos os protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definimos o nome, logotipo e identidade visual do projeto Ephoros.
+
+Iniciamos e continuamos a construção da landing page.
+
+Refinamos os requisitos e as telas de alta fidelidade.
+
+Iniciamos o desenvolvimento do sistema em Java e JavaFX.
+
+Revisamos os requisitos e organizamos a estrutura geral do projeto.
+
+
+Atividades do Dia 04/12/2025
+
+Lucas Alexandre:
+
+- Continuação das telas do JavaFX com as interações.
+
+- Continuação da landing page – versão mobile.
+
+Bruno Haddad:
+
+- Organização das ideias para realizar o levantamento do servidor em SOP.
+
+Enzzo Fernandes:
+
+- Organização das ideias para configurar os servidores DHCP, DNS e WEB em ARI utilizando o Cisco Packet Tracer.
+
+
+Resumo:
+
+Hoje não foi possível avançar muito devido às apresentações do TTC da turma do SESI no auditório.
+Mesmo assim, continuamos algumas atividades em casa e organizamos o que será feito amanhã para manter o andamento do projeto.
+
+O que será feito amanhã (SEX – 05/12/2025):
+
+Continuação do JavaFX com as integrações.
+
+Inicialização do levantamento do servidor que irá conter a landing page web.
+
+Inicialização dos servidores no simulador com o endereço web da landing page.
+
+
+Ajuda (Obs):
+
+No momento, não precisamos de ajuda.
