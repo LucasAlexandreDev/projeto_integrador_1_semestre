@@ -614,3 +614,82 @@ Continuação da configuração dos servidores no simulador e início da prepara
 Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 10 – 09/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04/05/06/07/08/09 – 26/11 a 08/12/2025):
+
+Realizamos o levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvemos os protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definimos o nome, logotipo e identidade visual do projeto Ephoros.
+
+Construímos a landing page responsiva nas versões desktop, mobile e tablet.
+
+Avançamos no desenvolvimento do sistema em Java e JavaFX com telas, interações e funcionalidades principais.
+
+Revisamos e refinamos todos os requisitos do sistema.
+
+Iniciamos o planejamento da infraestrutura em SOP e configuramos servidores DHCP, DNS e WEB no Cisco Packet Tracer.
+
+Realizamos ajustes finais na estrutura visual das três versões da landing page.
+
+Finalizamos a interação da tela principal no JavaFX e concluímos as responsividades.
+
+Mesmo sem aula no SENAI Jandira, continuamos avançando no projeto para manter o progresso constante.
+
+Atividades do Dia 09/12/2025:
+
+Lucas Alexandre:
+
+- Finalização completa das telas de registrar entrada e saída no JavaFX, incluindo todas as interações necessárias.
+
+- Inicialização da configuração do servidor WEB em SOP, preparando a base para hospedagem da landing page.
+
+Bruno Haddad:
+
+- Finalização do servidor DNS em SOP, garantindo que o domínio e o redirecionamento interno funcionem corretamente na futura hospedagem.
+
+Enzzo Fernandes:
+
+- Finalização completa dos servidores no simulador Cisco Packet Tracer, incluindo DHCP, DNS e WEB.
+
+- Conclusão da documentação da infraestrutura em ARI, estruturando toda a parte técnica da topologia e funcionamento dos servidores.
+
+Resumo:
+
+O dia foi marcado por avanços significativos tanto na parte lógica quanto na parte de infraestrutura do projeto Ephoros.
+Com a finalização das telas principais de entrada e saída no JavaFX, o fluxo de funcionamento do sistema ganha forma completa.
+No setor de redes, concluímos o servidor DNS em SOP e encerramos todos os servidores simulados no Cisco, junto da documentação técnica, 
+consolidando a base para a futura hospedagem da aplicação.O time manteve o foco e a produtividade, garantindo consistência entre o software, 
+a infraestrutura e a documentação.
+
+O que será feito amanhã (QUA – 10/12/2025):
+
+Continuação da configuração do servidor WEB em SOP e início da estrutura de hospedagem da landing page.
+
+Revisão da documentação e ajustes finais no simulador para garantir a conexão correta entre todos os serviços.
+
+Revisão do projeto por completo, visando analisar se tudo está dentro dos padrões da documentação proposta pelos professores.
+
+
+Ajuda (Obs):
+
+No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
