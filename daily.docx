@@ -542,3 +542,75 @@ Inicialização da configuração dos servidores no Cisco Packet Tracer (DHCP, D
 Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 09 – 08/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04/05/06/07/08 – 26/11 a 05/12/2025):
+
+Realizamos o levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvemos os protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definimos o nome, logotipo e identidade visual do projeto Ephoros.
+
+Construímos a landing page nas versões desktop, mobile e tablet.
+
+Avançamos no desenvolvimento do sistema em Java e JavaFX, incluindo telas, interações e funcionalidades principais.
+
+Revisamos, organizamos e refinamos todos os requisitos do sistema.
+
+Iniciamos o planejamento da infraestrutura em SOP e a configuração dos servidores DHCP, DNS e WEB no Cisco Packet Tracer.
+
+Realizamos ajustes finais na estrutura visual da landing page nas três versões.
+
+Atividades do Dia 08/12/2025:
+
+Lucas Alexandre:
+
+- Finalização completa da landing page responsiva – versão mobile.
+
+- finalizado a interação da tela de entrada (principal) no JavaFX
+
+Bruno Haddad:
+
+- Adição da navegação entre seções da landing page através de links.
+
+- Implementação de animações e efeitos visuais para melhorar a experiência do usuário.
+
+Enzzo Fernandes:
+--
+
+Resumo:
+
+Hoje não houve aula no SENAI de Jandira, porém o time manteve o compromisso com o projeto e continuou realizando ajustes importantes,
+especialmente nas versões responsivas da landing page e na configuração da infraestrutura no simulador. Avançamos tanto na parte visual 
+quanto na parte estrutural e lógica, garantindo que o progresso do projeto não fosse comprometido.
+
+O que será feito amanhã (TER – 09/12/2025):
+
+Integração das funcionalidades do JavaFX das telas de registrar entrada e saida dos veiculos.
+
+Ajustes no Figma referente a landing page.
+
+Continuação da configuração dos servidores no simulador e início da preparação para hospedagem real.
+
+
+Ajuda (Obs):
+
+No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
