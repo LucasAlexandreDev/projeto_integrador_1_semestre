@@ -693,3 +693,86 @@ Revisão do projeto por completo, visando analisar se tudo está dentro dos padr
 Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda, pois estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 11 – 10/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04/05/06/07/08/09/10 – 26/11 a 09/12/2025):
+
+Realizamos o levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvemos os protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definimos o nome, logotipo e identidade visual do projeto Ephoros.
+
+Construímos a landing page responsiva nas versões desktop, mobile e tablet.
+
+Avançamos no desenvolvimento do sistema em Java e JavaFX, incluindo telas, interações e funcionalidades principais.
+
+Revisamos, organizamos e refinamos todos os requisitos do sistema.
+
+Iniciamos o planejamento e desenvolvimento da infraestrutura em SOP.
+
+Finalizamos a configuração dos servidores DHCP, DNS e WEB no simulador Cisco Packet Tracer.
+Documentamos toda a infraestrutura em ARI.
+
+Concluímos as interações da tela principal, da tela de registrar entrada e da tela de saída no JavaFX.
+
+Finalizamos todos os ajustes visuais das três versões da landing page.
+
+Avançamos na preparação do servidor para hospedagem da landing page.
+
+Atividades do Dia 10/12/2025
+
+Lucas Alexandre:
+
+- Finalização completa da tela de Registrar Saída no JavaFX com todas as interações.
+
+- Finalização do README do repositório de LER.
+
+- Finalização do README do repositório Geral do projeto.
+
+Bruno Haddad:
+
+- Finalização completa do README dos repositórios Lima 
+- Finalização completa do README dos repositórios Lopal
+
+Enzzo Fernandes:
+
+- Finalização dos ajustes no Figma referentes aos protótipos da landing page nas três versões (desktop, mobile e tablet).
+
+Resumo:
+
+O foco do dia foi voltado principalmente para a documentação, revisão e finalização dos materiais técnicos do projeto.
+A sala do professor Wendel estava ocupada, o que impossibilitou o avanço direto na parte de servidores e infraestrutura em SOP,
+então priorizamos atividades que não dependiam do laboratório.
+
+Aproveitamos para concluir os READMEs, ajustar protótipos no Figma e fechar pendências do JavaFX, garantindo que toda a documentação do projeto esteja organizada e atualizada.
+
+O que será feito amanhã (QUI – 11/12/2025):
+
+Continuação da configuração do servidor WEB em SOP.
+
+Retomada dos testes da infraestrutura assim que o laboratório estiver disponível.
+
+Validação final dos protótipos e READMEs.
+
+
+Ajuda (Obs):
+
+No presente momento, não precisamos de ajuda — estamos nos desenvolvendo muito bem.
