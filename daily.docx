@@ -776,3 +776,100 @@ Validação final dos protótipos e READMEs.
 Ajuda (Obs):
 
 No presente momento, não precisamos de ajuda — estamos nos desenvolvendo muito bem.
+
+
+------------------------------------------------------------------------------------------------------
+
+
+Daily 12 – 11/12/2025
+
+Objetivo:
+
+Informar o que eu fiz, o que eu estou fazendo, o que eu vou fazer e se eu preciso de ajuda.
+
+Integrantes:
+
+Lucas Alexandre
+Bruno Haddad
+Enzzo Fernandes
+
+Atividades Realizadas no Dia
+
+O que fizemos (Daily 01/02/03/04/05/06/07/08/09/10/11 – 26/11 a 10/12/2025):
+
+Realizamos o levantamento dos requisitos funcionais, não funcionais e de negócio.
+
+Desenvolvemos os protótipos de alta fidelidade no Figma (Desktop, Mobile e Tablet).
+
+Definimos o nome, logotipo e identidade visual do projeto Ephoros.
+
+Construímos a landing page responsiva nas três versões.
+
+Avançamos no desenvolvimento do sistema em Java e JavaFX, incluindo interações, navegação e funcionalidades principais.
+
+Refinamos e organizamos todos os requisitos do sistema.
+
+Concluímos a configuração dos servidores DHCP, DNS e WEB no Cisco Packet Tracer.
+
+Documentamos toda a infraestrutura em ARI e finalizamos materiais adicionais.
+
+Finalizamos as principais telas do JavaFX (entrada, saída e tela principal).
+
+Produzimos e concluímos diversas documentações, protótipos e READMEs.
+
+Avançamos na preparação do servidor SOP e iniciamos testes de hospedagem.
+
+Ajustamos protótipos, finalizamos READMEs e concluímos interações pendentes no JavaFX.
+
+
+Atividades do Dia 11/12/2025
+
+Lucas Alexandre:
+
+- Continuação e avanço significativo na conclusão do servidor WEB em SOP.
+
+- Finalização das animações e detalhes visuais no JavaFX.
+
+- Finalização dos READMEs de ARI e SOP, estruturando a documentação final.
+
+- Finalização da apresentação no Canva, deixando todas as partes prontas.
+
+- Finalização completa do Documento de Visão do projeto.
+
+Bruno Haddad:
+
+- Finalização da gravação do vídeo da aplicação em Java para ser inserido na landing page.
+
+- Continuação da configuração do servidor DNS em SOP.
+
+- Finalização da estrutura do canal do YouTube, com o vídeo da aplicação já publicado.
+
+Enzzo Fernandes:
+
+- Pesquisa e análise dos erros e falhas encontrados no servidor DNS e WEB durante os testes.
+
+- Levantamento das possíveis causas dos problemas e apoio na correção.
+
+Resumo:
+
+O dia foi focado na finalização dos detalhes e ajustes finais do projeto, tanto na parte técnica quanto na parte visual e documental.
+Enfrentamos algumas dificuldades com os servidores, principalmente DNS e WEB, o que exigiu pesquisa e apoio adicional.Mesmo buscando ajuda
+com o professor Wendel, o problema ainda não foi totalmente solucionado, porém continuamos avançando em outras frentes importantes, garantindo
+que toda documentação, apresentação e funcionalidades estejam finalizadas.
+Foi um dia essencial para consolidar e organizar o que faltava.
+
+O que será feito amanhã (SEX – 12/12/2025):
+
+Finalização completa da hospedagem da landing page no servidor.
+
+Correção dos erros que persistem no DNS e WEB.
+
+Testes finais de acesso, roteamento e funcionamento dos serviços.
+
+Revisão geral do projeto para a entrega final.
+
+
+Ajuda (Obs):
+
+Pedimos ajuda ao professor Wendel em relação aos erros dos servidores, porém o problema ainda não foi resolvido.
+Mesmo assim, vamos conseguir concluir e finalizar o projeto com sucesso.
